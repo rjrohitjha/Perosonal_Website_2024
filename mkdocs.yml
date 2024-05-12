@@ -1,6 +1,6 @@
 site_name: 'Perosonal_Website_2024'
 site_description: 'My Research Portfolio'
-site_author: Ty Tuff
+site_author: Rohit Jha
 site_url: https://github.com/rjrohitjha/Perosonal_Website_2024
 
 # Repository
@@ -8,7 +8,7 @@ repo_name: Perosonal_Website_2024
 repo_url: https://github.com/rjrohitjha/Perosonal_Website_2024
 edit_uri: edit/main/docs/
 # Copyright
-copyright: 'Copyright &copy; 2024 University of Colorado Boulder'
+copyright: 'Copyright &copy; Rohit Jha'
 
 # Page tree
 nav:
